@@ -1,6 +1,11 @@
 # Arduino UPS
 An UPS (Uninterruptible Power Supply) made of my old (broken) UPS and Arduino.
 
+https://create.arduino.cc/projecthub/abratchik/hid-compliant-ups-with-arduino-75198c
+
+https://www.microfarad.de/pi-ups/
+
+
 # Documentation
 The documentation consists of hardware and software part.  
 The hardware documentation consists of used parts and electrical schemes. It resides in "hw_doc" directory.  
